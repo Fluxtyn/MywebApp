@@ -1,2 +1,1 @@
-echo "Hello Earch";
-echo "Hello Earth"
+echo sIt's a  good day
